@@ -1,0 +1,30 @@
+/* alterando cor por nome */
+.nome{
+    color:orange;
+    background-color: green;
+}
+
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color:#b55e5c;
+    background-color: #ecf7a1;
+}
+
+/* alterando cor por rgba */
+.rgba{
+    color: rgba(52, 144, 224, 1);
+    background-color: rgba(52, 144, 224, 0.62);
+}
+
+/* Alterando a segunda página */
+.titulo-background{
+    background-color: rgba(128, 128, 128, 0.705);
+    color: aliceblue;
+    text-align: end;
+}
+
+.div-background{
+    background-image: url(pordosol.jpg);
+    height: 300px;
+    width: 800px;
+}

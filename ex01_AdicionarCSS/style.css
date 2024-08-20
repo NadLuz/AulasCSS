@@ -1,0 +1,16 @@
+/* Usando CSS externo */
+h1{
+    color:blue;
+    font-size: 50px;
+}
+span{
+    color: aqua;
+}
+h2{
+    color:red;
+    font-size: 100px;
+}
+p{
+    color:yellow;
+    font-size: 10px;
+}
